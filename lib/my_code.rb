@@ -13,7 +13,7 @@ def map_to_no_change(array)
   array
 end
 
-def map_to_double(arr)
+def map_to_double(array)
   result = []
   i = 0
   while i < array.length do
